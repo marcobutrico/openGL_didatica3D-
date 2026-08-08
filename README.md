@@ -12,3 +12,5 @@ O resultado em sala de aula tem sido uma assimilação muito mais rápida dos co
 O que acharam dessa abordagem didática? Como vocês aplicam tecnologia interativa no ensino técnico?
 
 #DesenhoTécnico #SENAI #Python #OpenGL #EducacaoTecnologica #Engenharia #InovacaoNaEducacao
+
+![Demonstração da Aplicação](introOpenGl.jpg)
