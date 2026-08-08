@@ -14,5 +14,5 @@ O que acharam dessa abordagem didática? Como vocês aplicam tecnologia interati
 #DesenhoTécnico #SENAI #Python #OpenGL #EducacaoTecnologica #Engenharia #InovacaoNaEducacao
 
 ![Demonstração da Aplicação](introOpenGL.jpg)
-![Demonstração da Aplicação](https://github.com/marcobutrico/openGL_didatica3D/regosters/video02.mp4)
-![Demonstração da Aplicação](https://github.com/marcobutrico/openGL_didatica3D/regosters/video03.mp4)
+![Demonstração da Aplicação](https://github.com/marcobutrico/openGL_didatica3D/registers/video02.mp4)
+![Demonstração da Aplicação](https://github.com/marcobutrico/openGL_didatica3D/registers/video03.mp4)
