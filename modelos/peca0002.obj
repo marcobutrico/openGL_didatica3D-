@@ -1,0 +1,13 @@
+# Peça 2: Bloco com rampa (Plano inclinado)
+v 0 0 0
+v 3 0 0
+v 0 3 0
+v 0 0 2
+v 3 0 2
+v 0 3 2
+
+f 1 2 3
+f 6 5 4
+f 1 4 5 2
+f 1 3 6 4
+f 2 5 6 3
