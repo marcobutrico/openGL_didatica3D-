@@ -13,4 +13,4 @@ O que acharam dessa abordagem didática? Como vocês aplicam tecnologia interati
 
 #DesenhoTécnico #SENAI #Python #OpenGL #EducacaoTecnologica #Engenharia #InovacaoNaEducacao
 
-![Demonstração da Aplicação](introOpenGl.jpg)
+![Demonstração da Aplicação](introOpenGL.jpg)
